@@ -16,6 +16,6 @@ public class MyArray {
             System.out.print(i + " ");
         }
         System.out.print("\n");
-//        myArray[10]=10000;
+//        myArray[10]=100;
     }
 }
